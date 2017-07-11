@@ -3,7 +3,6 @@ package de.longri.libgdx_widgets;
 import com.badlogic.gdx.backends.iosmoe.IOSApplication;
 import com.badlogic.gdx.backends.iosmoe.IOSApplicationConfiguration;
 import org.moe.natj.general.Pointer;
-import de.longri.libgdx_widgets.TestGame;
 
 import apple.uikit.c.UIKit;
 

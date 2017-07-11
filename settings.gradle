@@ -1,1 +1,6 @@
 include 'desktop', 'android', 'ios', 'html', 'core', 'ios-moe'
+
+project(':desktop').projectDir = new File('./launcher/desktop')
+project(':android').projectDir = new File('./launcher/android')
+project(':ios').projectDir = new File('./launcher/ios')
+project(':ios-moe').projectDir = new File('./launcher/ios-moe')
